@@ -1,0 +1,16 @@
+services:
+  shopping.client:
+    build:
+      context: /Users/fadihaddad/Projects/microservice/Solution
+      dockerfile: Shopping.Client/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: shopping
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - /Users/fadihaddad/.aspnet/https:/root/.aspnet/https:ro
+    - /Users/fadihaddad/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

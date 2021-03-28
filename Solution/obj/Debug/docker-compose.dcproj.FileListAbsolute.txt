@@ -1,0 +1,9 @@
+/Users/fadihaddad/Projects/microservice/Solution/bin/Debug/Shopping.Client.Views.dll
+/Users/fadihaddad/Projects/microservice/Solution/bin/Debug/Shopping.Client.Views.pdb
+/Users/fadihaddad/Projects/microservice/Solution/bin/Debug/appsettings.Development.json
+/Users/fadihaddad/Projects/microservice/Solution/bin/Debug/appsettings.json
+/Users/fadihaddad/Projects/microservice/Solution/bin/Debug/Shopping.Client.dll
+/Users/fadihaddad/Projects/microservice/Solution/bin/Debug/Shopping.Client.pdb
+/Users/fadihaddad/Projects/microservice/Solution/obj/Debug/docker-compose.dcprojAssemblyReference.cache
+/Users/fadihaddad/Projects/microservice/Solution/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/fadihaddad/Projects/microservice/Solution/obj/Debug/docker-compose.dcproj.CopyComplete
