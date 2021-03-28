@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <DockerComposeProjectPath>../docker-compose.dcproj</DockerComposeProjectPath>
+    <DockerfileFile>..\Dockerfiles\Dockerfile.client</DockerfileFile>
     <UserSecretsId>de3dba00-c286-4da6-b417-0768f80565e0</UserSecretsId>
   </PropertyGroup>
 
